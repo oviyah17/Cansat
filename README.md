@@ -10,12 +10,12 @@ A student-developed CanSat for atmospheric monitoring and descent characterizati
 ## Hardware
 
 * [Hardware Documentation](hardware/README.md)
-* [CANSAT Body — STL](hardware/CANSAT-body.stl)
-* [CANSAT Lid — STL](hardware/CANSAT-lid.stl)
+* [CANSAT Body - STL](hardware/CANSAT-body.stl)
+* [CANSAT Lid - STL](hardware/CANSAT-lid.stl)
 
 ## Simulation
 
-* [CanSat Simulation — Simulink Model](simulation/Cansat_Simulation.slx)
+* [CanSat Simulation - Simulink Model](simulation/Cansat_Simulation.slx)
 
 ## Project Status
 

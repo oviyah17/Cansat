@@ -1,6 +1,5 @@
 # CanSat
-
-A student-developed CanSat for atmospheric monitoring and descent characterization.
+for atmospheric monitoring and descent characterization.
 
 ## Project Documentation
 
